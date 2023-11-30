@@ -3,7 +3,7 @@
   "short_name": "PWA",
   "description": "App para o mini curso da semana academica",
   "lang": "pt-BR",
-  "start_url": "https://jaisson.github.io/oficina/",
+  "start_url": "https://vandraterhorst.github.io/PWA/",
   "display": "fullscreen",
   "background_color": "#4e54ac",
   "theme_color": "#244bc1",
@@ -11,7 +11,7 @@
   "id": "1",
   "orientation": "portrait",
   "dir": "auto",
-  "scope": "https://jaisson.github.io/oficina/",
+  "scope": "https://vandraterhorst.github.io/PWA/",
   "display_override": [
     "standalone",
     "fullscreen",
